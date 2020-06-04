@@ -1,3 +1,5 @@
+"""Cria uma agenda de pessoas podendo adicionar , remover e buscar """
+
 class Pessoas:
     contador = 0
     def __init__(self, nome, idade, altura):
